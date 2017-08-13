@@ -1,5 +1,7 @@
 [![BCH compliance](https://bettercodehub.com/edge/badge/UCC-Programacion3/00_Repaso?branch=master)](https://bettercodehub.com/)
+
 [![Build Status](https://travis-ci.org/UCC-Programacion3/00_Repaso.svg?branch=master)](https://travis-ci.org/UCC-Programacion3/00_Repaso)
+
 ## Ejercicio N°1.
 Repaso Programación Orientada a Objetos. Implemente una clase abstracta Geometría y 3 clases hijos; Cuadrado, Triangulo y Circulo. Las 3 deben heredar de la clase Geometría. Cree la clase Color y por contención utilícela en las otras tres.
 
